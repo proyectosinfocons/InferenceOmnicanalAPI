@@ -10,6 +10,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class WhatsappOldIncomingMessageRequestDTO {
+
     private Long id;
     private String imSubject;
     private String address;
